@@ -4,3 +4,4 @@ Instalé VSC en Linux, mediante línea de comandos para que cuando haga un "apt 
 Ejecuté los comandos necesarios de Git desde la terminal de Linux para, luego, subir el proyecto a GitHub. 
 Escribí esta línea para agregar cambios a mi proyecto y volver a realizar un "push" a GitHub. 
 Esta línea nueva la escribo aclarando que hice correcciones ortográficas a éste archivo. 
+Esta línea que agrego, es agregada desde Windows. Hice un git clone para descargar el proyecto que subí a GitHub desde Linux. 
